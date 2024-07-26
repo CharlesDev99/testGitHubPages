@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    color: #fff;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.datetime {
+    font-size: 1.5rem;
+    margin: 10px 0;
+}
